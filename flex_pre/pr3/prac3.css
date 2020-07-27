@@ -1,0 +1,28 @@
+.total_con{
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+}
+
+.con1{
+    display: flex;
+    justify-content:flex-start;
+}
+
+.con2{
+
+    display: flex;
+    justify-content:center;
+}
+.con3{
+
+    display: flex;
+    justify-content:flex-end;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin:5px;
+}
